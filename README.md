@@ -1,6 +1,7 @@
 <div align="center">
     
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&duration=2000&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=PadInLA;Full-Stack+Web+Developer)
+
 <img src="https://komarev.com/ghpvc/?username=PadInLa" alt="PadInLa" />
 
 <h2> Contact </h2>
