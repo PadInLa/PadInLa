@@ -2,4 +2,3 @@
 
 ![PadInLa's GitHub stats](https://github-readme-stats.vercel.app/api?username=PadInLa&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PadInLa&layout=compact)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PadInLa&repo=Compare_and_Go_Back)]
