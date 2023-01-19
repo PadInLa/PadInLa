@@ -1,7 +1,6 @@
 <div align="center">
     
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&duration=4000&pause=500&center=true&vCenter=true&multiline=true&repeat=false&width=450&height=80&lines=PadInLa;Full-Stack+Web+Developer)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&duration=2000&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=PadInLA;Full-Stack+Web+Developer)
 <img src="https://komarev.com/ghpvc/?username=PadInLa" alt="PadInLa" />
 
 <h2> Contact </h2>
@@ -14,7 +13,7 @@
 <a href="https://gist.github.com/PadInLa/97c7a3be94ca3baafc3631bb126e7ba2">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> 
 </a>
-<br>
+
 <h2> Technologies </h2>
 
 <a href="#" target="_blank">
@@ -30,7 +29,7 @@
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </a>
-<br>
+
 <h2> Github Stats </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PadInLa&show_icons=true&theme=transparent)
