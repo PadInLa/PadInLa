@@ -4,6 +4,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=PadInLa" alt="PadInLa" />
 
+<h2> Contact </h2>
+<a href="https://www.linkedin.com/in/padinla/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://twitter.com/FakePadInLa">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"> 
+</a>
+<a href="https://gist.github.com/PadInLa/97c7a3be94ca3baafc3631bb126e7ba2">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> 
+</a>
+<br>
 <h2> Technologies </h2>
 
 <a href="#" target="_blank">
@@ -19,7 +30,7 @@
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </a>
-
+<br>
 <h2> Github Stats </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PadInLa&show_icons=true&theme=transparent)
