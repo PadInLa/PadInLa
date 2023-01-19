@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=PadInLa" alt="PadInLa" />
 
-<h2>-- Technologies --</h2>
+<h2> Technologies </h2>
 
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
@@ -19,6 +19,8 @@
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </a>
+
+<h2> Stats </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PadInLa&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PadInLa&layout=compact&theme=transparent)
