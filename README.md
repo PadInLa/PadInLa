@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/padinla/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://twitter.com/FakePadInLa">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"> 
-</a>
 <a href="https://gist.github.com/PadInLa/97c7a3be94ca3baafc3631bb126e7ba2">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> 
 </a>
